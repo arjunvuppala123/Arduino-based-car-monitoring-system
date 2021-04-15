@@ -6,7 +6,7 @@ This is an Arduino-based Car monitoring System which implements the following fu
 This detects the distance of the object with respect to the car.
 
 # Temperature sensor:
-                   This is to check if the engine is overheating or not.
+ This is to check if the engine is overheating or not.
 
 # Force sensor:
 To detect if the air inside the tyres is below the threshold.
